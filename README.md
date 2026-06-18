@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-Open%20Source-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://github.com/)
 [![Academic-Paper](https://img.shields.io/badge/Applied%20Corpus%20Linguistics-2026-brightgreen)](https://doi.org/10.1016/j.acorp.2026.100226)
+[![Handle](https://img.shields.io/badge/Handle-10953%2F6583-purple.svg)](https://hdl.handle.net/10953/6583)
 
 YouTA (YouTube Text Annotator) is a specialized, context-aware corpus annotation tool engineered to bridge Critical Discourse Analysis (CDA) theory and computational analysis within Systemic Functional Linguistics (SFL) frameworks. Developed under the umbrella of the ACUMEN project ("Exploring social inequality through critical discourse analysis and artificial intelligence"), YouTA provides a user-centered interface to scale qualitative methods onto large-scale digital discourse.
 
@@ -87,6 +88,12 @@ This software is part of the R&D&I project **PID2023-147137NB-I00**, funded by *
 
 If you deploy YouTA across a research project, computational corpus architecture, or discourse publication, please cite our peer-reviewed paper:
 
+**APA Reference:**
+> Fernández-Martínez, N. J. (2026). YouTA: A context-aware corpus annotation tool for Critical Discourse Analysis of YouTube comments. *Applied Corpus Linguistics*, 100226. https://doi.org/10.1016/j.acorp.2026.100226
+> 
+> *Institutional Repository Permanent Link:* [https://hdl.handle.net/10953/6583](https://hdl.handle.net/10953/6583)
+
+**BibTeX:**
 ```bibtex
 @article{fernandezmartinez2026youta,
   author    = {Fern{\'a}ndez-Mart{\'i}nez, Nicol{\'a}s Jos{\'e}},
@@ -95,5 +102,6 @@ If you deploy YouTA across a research project, computational corpus architecture
   volume    = {6},
   pages     = {100226},
   year      = {2026},
-  doi       = {10.1016/j.acorp.2026.100226}
+  doi       = {10.1016/j.acorp.2026.100226},
+  url       = {[https://hdl.handle.net/10953/6583](https://hdl.handle.net/10953/6583)}
 }
